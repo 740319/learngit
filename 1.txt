@@ -10,3 +10,8 @@ void Funtion_Two(int a,int b)
 {
 	return a-b;
 }
+
+void Funtion_Thr(int a,int b)
+{
+	return a*b;
+}
