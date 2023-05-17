@@ -1,9 +1,7 @@
 Welecome to my word!
 call me 17684030324 or email 1550901112@qq.com and tell me your Info
-Master_Changed
-new_dev
-yeah
 
-
-
-git stash
+void Funtion(int a,int b)
+{
+	return a + b;
+}
