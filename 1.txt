@@ -16,3 +16,4 @@ void Funtion_Thr(int a,int b)
 	return a*b;
 }
 Can you pull?
+lzy_dev
