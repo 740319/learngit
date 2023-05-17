@@ -1,8 +1,3 @@
 Welecome to my word!
 call me 17684030324 or email 1550901112@qq.com and tell me your Info
-
-<<<<<<< HEAD
-Master changed 
-=======
-new_dev changed 
->>>>>>> new_dev
+Master
