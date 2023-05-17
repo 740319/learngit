@@ -5,3 +5,8 @@ void Funtion(int a,int b)
 {
 	return a + b;
 }
+
+void Funtion_Two(int a,int b)
+{
+	return a-b;
+}
