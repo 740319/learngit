@@ -15,4 +15,11 @@ void Funtion_Thr(int a,int b)
 {
 	return a*b;
 }
+<<<<<<< HEAD
 //本地dev分支，将上传到远程this_dev分支
+=======
+Can you pull?
+<<<<<<< HEAD
+lzy_dev
+master
+>>>>>>> 8071c5ef61d9ff835a7c5db3616add9ce2b1a846
